@@ -14,7 +14,7 @@ const Blogs = () => {
         Semantic HTML or Semantic markup is HTML that introduces meaning to the
         web page rather than just presentation. For example, a tag indicates
         that the enclosed text is a paragraph. This is both semantic and
-        presentational because people know what paragraphs are, and browsers
+        presentational because people know what paragraphs are, and browsers are also
         know how to display them.
       </p>
     </div>
