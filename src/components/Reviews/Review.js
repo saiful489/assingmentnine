@@ -9,7 +9,7 @@ const Review = ({ review }) => {
       </div>
       <h4>{review.name}</h4>
       <p>{review.comment}</p>
-      <p> rating {review.rating}</p>
+      <p> ratings {review.rating}</p>
     </div>
   );
 };
