@@ -1,0 +1,31 @@
+.container {
+  padding: 0 20%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.img img {
+  width: 300px;
+}
+.customer-reviews-container {
+  text-align: center;
+}
+.reviews {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 5% 20%;
+}
+.Reviews-btn {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #5d5394;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
