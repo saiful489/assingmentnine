@@ -4,7 +4,7 @@ import "./Blogs.css";
 const Blogs = () => {
   return (
     <div className="blog-container">
-      <h2>what is context api </h2>
+      <h2>what is context Api </h2>
       <p>
         Context provides a way to pass data through the component tree without
         having to pass props down manually at every level.
