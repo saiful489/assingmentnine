@@ -9,7 +9,7 @@ const Blogs = () => {
         Context provides a way to pass data through the component tree without
         having to pass props down manually at every level.
       </p>
-      <h2>what are semantic tags in html?</h2>
+      <h2>what are the semantic tags in html?</h2>
       <p>
         Semantic HTML or semantic markup is HTML that introduces meaning to the
         web page rather than just presentation. For example, a tag indicates
