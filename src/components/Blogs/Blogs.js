@@ -11,7 +11,7 @@ const Blogs = () => {
       </p>
       <h2>what are the semantic tags in html?</h2>
       <p>
-        Semantic HTML or semantic markup is HTML that introduces meaning to the
+        Semantic HTML or Semantic markup is HTML that introduces meaning to the
         web page rather than just presentation. For example, a tag indicates
         that the enclosed text is a paragraph. This is both semantic and
         presentational because people know what paragraphs are, and browsers
